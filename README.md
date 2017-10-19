@@ -1,7 +1,7 @@
 ## Project Name:  Income Tax Calculator Application
 
 ### Course Title:
-LIS 2360:  Web Application Development
+Web Application Development
 
 ### Assignment Date:  
 (Month Day, Year)
@@ -20,3 +20,4 @@ LIS 2360:  Web Application Development
 1. (Briefly describe a lesson/concept learned in this lesson.)
 2. (Briefly describe a lesson/concept learned in this lesson.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
+
